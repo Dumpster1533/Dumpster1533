@@ -11,7 +11,7 @@ Feature 2 🔧
 Feature 3 🌍
 Installation 🛠️
 bash
-git clone https://github.com/your-repo.git
+git clone https://github.com/Dumpster1533/Dumpster1533.git
 cd your-repo
 npm install
 Usage 🚀
